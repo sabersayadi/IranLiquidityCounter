@@ -1,5 +1,5 @@
 /* Embed Vazir Font */
-@font-face {
+/* @font-face {
     font-family: 'Vazir';
     src: local('Vazir'),
          url('fonts/Vazir.woff2') format('woff2'),
@@ -7,10 +7,10 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-}
+} */
 
 body {
-    font-family: 'Vazir', Tahoma, Arial, sans-serif;
+    font-family: 'Vazirmatn', Tahoma, Arial, sans-serif;
     background-color: #ffffff;
     text-align: center;
     margin: 0;
